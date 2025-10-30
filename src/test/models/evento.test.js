@@ -1,7 +1,6 @@
 import {
-  describe, expect, it, jest,
+  describe, expect, it,
 } from '@jest/globals';
-import Autor from '../../models/autor.js';
 import Evento from '../../models/evento.js';
 
 describe('Testando o modelo Evento', () => {
